@@ -15,7 +15,7 @@
    width: 950px;
    background-color: #FBFBFB;
    height: 800px;
-   margin-left: 25px;
+   margin-left: 30px;
 }
 
 h1{
@@ -91,7 +91,7 @@ mix-blend-mode: Multiply;
 .imgh{
     width: 250px;
     height: 250px;
-    background-color: #eaeaea;
+    background-color:#FBFBFB ;
     padding: 10px; 
 }
 
@@ -118,4 +118,24 @@ justify-content: space-around;
 .png-colection{
     display: flex;
     justify-content: space-around;
+     flex-wrap: wrap;
+}
+
+.number{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 30px;
+}
+
+.buton{
+    background-color:  #46A358;
+      color: #FFFFFF;
+    margin: 4px;
+}
+
+.btn{
+  background-color:#fffefe ;  
+  color:#3D3D3D ;
+ margin: 4px;
+
 }
