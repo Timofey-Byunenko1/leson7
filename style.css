@@ -1,3 +1,9 @@
+
+body {
+  font-family: 'Cera Pro',;
+  font-weight: 300;
+}
+
 .main-container{
   display: flex;
   align-items: flex-start;
@@ -26,7 +32,7 @@ line-height: 16px;
 letter-spacing: 0%;
 padding: 12px 10px 0px;
 
-  font-family: 'CeraPro', sans-serif;
+  font-family: 'CeraPro',;
   font-weight: bold;
 
 
@@ -98,6 +104,7 @@ mix-blend-mode: Multiply;
     width: 250px;
     height: 250px;
     padding: 10px; 
+    background-color: #FBFBFB;
 }
 
 
@@ -120,7 +127,7 @@ justify-content: space-around;
     margin-bottom: 0px;
 
     
-  font-family: 'CeraPro', sans-serif;
+  font-family: 'CeraPro',;
   font-weight: bold;
 
 
@@ -154,6 +161,6 @@ justify-content: space-around;
 
 
 .colo{
-    background-color:#FBFBFB ;
+    background-color:#FFFFFF;
     margin: 15px;
 }
